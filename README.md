@@ -10,3 +10,8 @@ See the current listing of in-progress SCPs [here](https://github.com/ZorrillosD
 
 Process Status: experimental
 This process is itself in flux and may change or end at some point.
+
+### Numbering
+
+SCPs should be numbered the same as the pull request which they are introduced.
+eg. SCP-001: My Proposal

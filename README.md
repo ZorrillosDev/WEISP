@@ -8,10 +8,9 @@ All ideas are welcome. An SCP should start as a pull request to this repo. Merge
 
 See the current listing of in-progress SCPs [here](https://github.com/ZorrillosDev/WEWIP/pulls)
 
-Process Status: experimental
-This process is itself in flux and may change or end at some point.
+Process Status: **EXPERIMENTAL**
 
-eg. 
+This process is itself in flux and may change or end at some point.
 
 
 ## SCP-001: SCP Categories and Nomenclature

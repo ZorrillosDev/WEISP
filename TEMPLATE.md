@@ -1,28 +1,28 @@
 # SCPs Template
 
 
-#### Title: Named SCP Text Bold with Format SCP-{PR}: {Title}
+**Title:** Named SCP Text Bold with Format SCP-{PR}: {Title}
 ```
 SCP-002: SCP Proposal
 ```
 
-#### Status: Draft | Ready
+**Status:** Draft | Ready
 ```
 Status: Draft
 ```
 
-#### Category : Architecture | DevEx | UI/UX | Security | Community
+**Category:** Architecture | DevEx | UI/UX | Security | Community
 ```
 Category: Security
 ```
 
-#### Discussions-to: Link to related issue
+**Discussions-to:** Link to related issue
 
 ```
 Discussions-to: https://github.com/ZorrillosDev/WEISP/issues
 ```
 
-#### Description: Description is one full (short) sentence
+**Description:** Description is one full (short) sentence
 
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 

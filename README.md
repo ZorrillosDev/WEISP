@@ -22,7 +22,7 @@ MUST pertain to several different categories:
 1. *Architecture* SCPs MUST relate to the internal architecture and software engineering of Watchit. Proposals regarding performance, resiliency, and feature sets are submitted in this category.
 2. *DevEx* SCPs MUST relate to the general DevExp a contributor has when _developing_ Watchit itself. Proposals regarding CI/CD, tests, linting, and *internal* documentation are filed here.
 3. *UI/UX* SCPs MUST relate to the general Look and Feel/Experience a User has when _use_ Watchit. Proposals regarding UI, UX and tests are submitted in this category.
-4. *Security* SCPs MUST relate to security in the watchit environment. Proposals related to improvements in distribution, data transmission, encryption and access control are filed in this category.
+4. *Security* SCPs MUST relate to security in the Watchit environment. Proposals related to improvements in distribution, data transmission, encryption and access control are filed in this category.
 5. *Community* SCPs MUST relate to the external documentation, code of conduct, community engagement, and the SCP process itself.
 
 

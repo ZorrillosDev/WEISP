@@ -1,4 +1,4 @@
-# WEWIP
+# WEIP
 Watchit Enhancement/Improvement Proposals
 
 This repository is a collection of SCPs to improve Watchit - detailed ideas intended solicit discussion that leads to consensus.

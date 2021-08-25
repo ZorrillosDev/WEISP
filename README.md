@@ -8,7 +8,7 @@ All ideas are welcome. An SCP should start as a pull request to this repo. Merge
 
 See the current listing of in-progress SCPs [here](https://github.com/ZorrillosDev/WEWIP/pulls)
 
-Process Status: **EXPERIMENTAL**
+Process Status: `EXPERIMENTAL`
 
 This process is itself in flux and may change or end at some point.
 

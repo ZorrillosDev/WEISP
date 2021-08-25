@@ -14,7 +14,7 @@ This process is itself in flux and may change or end at some point.
 eg. 
 
 
-## SCP-1: SCP Categories and Nomenclature
+## SCP-001: SCP Categories and Nomenclature
 
 SCPs can pertain to several different categories:
 
